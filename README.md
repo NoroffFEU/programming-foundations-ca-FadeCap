@@ -1,2 +1,7 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=10477482&assignment_repo_type=AssignmentRepo)
-# Programming Foundations CA
+This object has the following properties:
+
+- Brand (String), the manufacturer of the water bottle
+- Volume (Number), the volume of the water bottle in `ml`
+- empty (boolean), shows if the bottle is empty or not
+- measurments (string array), shows measurments on the side of the bottle
+- toggleLid (function), changes the value of the bottle lid, to open it or the opposite (close).
